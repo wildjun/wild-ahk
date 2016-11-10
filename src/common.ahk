@@ -15,6 +15,3 @@ RCtrl & C::Send, {9}
 RCtrl & V::Send, {0}
 
 Capslock::LCtrl
-LCtrl::Esc
-Esc::Capslock
-
